@@ -7,7 +7,7 @@ if True:
 else:
     print "it's flase";
 '''
-#raw_input('aaaaaaaa按下 enter  键退出，其他任意键显示...\n');
+#raw_input('修改，测试github----按下 enter  键退出，其他任意键显示...\n');
 #import sys; x='runoob'; sys.stdout.write(x+'\n');
 '''
 import time;
